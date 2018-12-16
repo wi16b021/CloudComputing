@@ -1,3 +1,13 @@
+# CloudComputing
+Azure Vision API in an Angular6 Project.
+
+Please make sure to install Angular CLI Version 6.1.5 then run ng serve --open
+
+Hackl, Blumauer, Grolitsch
+
+
+
+
 # CloudApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
